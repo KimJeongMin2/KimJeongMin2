@@ -1,6 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe5e5,100:fe0101&height=180&text=Welcome!&animation=fadeIn&fontColor=ffffff&fontSize=70" />
     </div>
 
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=KimJeongMin2&bg_color=180,fff0f0,00000000&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJeongMin2&layout=compact&bg_color=180,fff0f0,00000000&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+    
 ## 🌱 Once I've used
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -36,9 +42,4 @@
 ## 🥅 Other
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=KimJeongMin2&bg_color=180,fff0f0,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJeongMin2&layout=compact&bg_color=180,fff0f0,00000000&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
     

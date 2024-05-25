@@ -1,5 +1,5 @@
-## JeongMin's Log
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome!JeongMin'sGit)
+## 🌱 JeongMin's Log
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome!)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimJeongMin2)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimJeongMin2)](https://github.com/anuraghazra/github-readme-stats)
 
